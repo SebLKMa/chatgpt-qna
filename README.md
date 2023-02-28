@@ -73,7 +73,7 @@ https://proton.me/blog/privacy-and-chatgpt
 3. Navigate into the project directory
 
    ```bash
-   $ cd openai-quickstart-python
+   $ cd chatgpt-qna
    ```
 
 4. Create a new virtual environment (do this unless you are developing and running inside docker)  
