@@ -68,6 +68,15 @@ https://proton.me/blog/privacy-and-chatgpt
 
 1. If you don’t have Python installed, [install it from here](https://www.python.org/downloads/)
 
+Beware of different python versions in your system, switch to the right version per libs in requirement.txt  
+https://rajputankit22.medium.com/upgrade-python-2-7-to-3-6-and-3-7-in-ubuntu-97d2727bf911  
+https://tecadmin.net/how-to-switch-python-version-in-ubuntu-debian/  
+
+Remember to install the version of python dev and env modules:  
+```sh
+sudo apt-get install python3.7-dev python3.7-venv
+```
+
 2. Clone this repository
 
 3. Navigate into the project directory
